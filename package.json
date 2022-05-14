@@ -5,7 +5,7 @@
     "keywords": [],
     "main": "src/index.js",
     "dependencies": {
-        "github-pages": "^3.2.3",
+        "gh-pages": "^4.0.0",
         "@gsimone/suzanne": "0.0.12",
         "@pmndrs/branding": "0.0.8",
         "@react-three/drei": "9.1.2",
