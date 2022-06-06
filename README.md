@@ -63,6 +63,8 @@ npm start
 
 </details>
 
+## Responsive ✔️
+
 
 ## Follow me on
 
