@@ -1,7 +1,7 @@
 {
-    "name": "Grass-builder",
+    "name": "grass-builder",
     "version": "1.0.0",
-    "description": "",
+     "description": "3D rock environment avatar-inspired using react and three.js",
     "keywords": [],
     "main": "src/index.js",
     "dependencies": {
