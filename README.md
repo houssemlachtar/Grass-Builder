@@ -3,11 +3,11 @@
 3D rock environment avatar-inspired using react and three.js
 <br>
 <br>        
-<a href="">
+<a href="https://dbis7m.csb.app">
         <img alt="Thumbnail" src="thumbnail.png" />
     </a>
 <br>
-<a href="">
+<a href="https://dbis7m.csb.app">
         Demo
     </a>
 </p>
