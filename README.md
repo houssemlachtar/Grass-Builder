@@ -63,7 +63,7 @@ npm start
 
 </details>
 
-## Responsive ✔️
+## Responsive (It would probably need some powerfull GPU) ✔️
 
 
 ## Follow me on
