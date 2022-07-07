@@ -14,6 +14,25 @@
 
 ## Windows Setup
 
+# Globally Installing React
+Run a cmd by administrator 
+
+`npm i react --location=global`
+<br>
+`npm i react-scripts --location=global`
+<br>
+`npm i react-dom --location=global`
+<br>
+`npm i cra-template --location=global`
+<br>
+`npm i @tra 2.2.2 --location=global`
+<br>
+`npm i create-react-app --location=global`
+
+# Create A React App
+
+`npm init react-app my-app`
+
 ## Installation
 Make sure you have installed Node.js and NPM first:<br>
 (This is for checking the installed versions)
